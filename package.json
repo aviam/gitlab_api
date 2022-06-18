@@ -1,0 +1,19 @@
+{
+  "name": "gitlabapi",
+  "version": "1.0.0",
+  "description": "gitlab api service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-gitlab": "^1.6.0",
+    "swagger-ui-express": "^3.0.8"
+  }
+}
